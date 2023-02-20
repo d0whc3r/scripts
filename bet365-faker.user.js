@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bet365 Faker
 // @namespace    https://github.com/d0whc3r
-// @version      1.0.9
+// @version      1.0.10
 // @description  Modify bet365 bets
 // @author       d0whc3r
 // @match        https://www.bet365.es/
