@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Flashscore analytics
 // @namespace    https://github.com/d0whc3r
-// @version      1.0.3
+// @version      1.0.4
 // @description  Add analysis to your flashscore data
 // @author       d0whc3r
 // @match        https://www.flashscore.com/table-tennis/*
