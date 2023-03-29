@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bet365 Reporter
 // @namespace    https://github.com/d0whc3r
-// @version      1.0.14
+// @version      1.0.15
 // @description  Send bet365 bets to tipster-tools website
 // @author       d0whc3r
 // @match        https://www.bet365.es/
