@@ -13,7 +13,6 @@
 // @grant        none
 // ==/UserScript==
 
-
 function removeAntiAdblock() {
     const predefined = document.querySelector('#ytburi-blanket')
     if (predefined) {
